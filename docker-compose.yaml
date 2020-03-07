@@ -1,0 +1,6 @@
+version: '2'
+services:
+  finalweb1:
+    image: finalweb:1.0
+    ports:
+      - "80:80"
